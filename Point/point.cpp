@@ -11,6 +11,6 @@ int main()
     d = A.distance(B);
     M = A.milieu(B);
     cout << "DISTANCE ENTRE A ET B :" << d << endl;
-    cout << "MILIEU ENTRE A ET B :" << M << endl;
+    cout << "MILIEU ENTRE A ET B :"<< endl << M << endl;
     return 0;
 }

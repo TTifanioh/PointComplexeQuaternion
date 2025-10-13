@@ -6,6 +6,7 @@ int main()
     complexe A,B,S,D,M,Q;double d;
     cout << "SAISIR LE COMPLEXE A : " << endl;cin >> A;
     cout << "SAISIR LE COMPLEXE B : " << endl;cin >> B;
+    cout << endl;
     S = A.addition(B);
     D = A.soustraction(B);
     M = A.multiplication(B);

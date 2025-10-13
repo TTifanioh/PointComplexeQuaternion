@@ -95,7 +95,7 @@ double quaternion::module()
 }
 istream & operator >> (istream & in ,quaternion &A)
 {
-    cout << "Tapez la partie reel : " ; in >> A.re;
+    cout << "Tapez la partie réel : " ; in >> A.re;
     cout << "Tapez la partie i : ";in >> A.i;
     cout << "Tapez la partie j : ";in >> A.j;
     cout << "Tapez la partie k : ";in >> A.k;

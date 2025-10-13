@@ -37,13 +37,13 @@ double point::getY()
 ostream & operator<<(ostream & out , const point &A)
 {
     out << "\tAbscisse du point :" << A.x << endl;
-    out << "\tOrdonne du point :" << A.y << endl;
+    out << "\tOrdonnée du point :" << A.y << endl;
     return out;
 }
 istream & operator>>(istream & in, point &A)
 {
     cout << "\tTapez l'abscisse :" ; in >> A.x;
-    cout << "\tTapez l'ordonnee :"; in >> A.y;
+    cout << "\tTapez l'ordonnée :"; in >> A.y;
     return in;
 }
 double point::distance(const point &A)

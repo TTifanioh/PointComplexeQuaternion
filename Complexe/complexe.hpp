@@ -70,8 +70,8 @@ double complexe::module()
 }
 ostream & operator << (ostream & out ,const complexe &a)
 {
-    out << "\tPartie reel :" << a.re << endl;
-    out << "\tPartie imaginaire :" << a.im << endl;
+    out << "\tPartie réel du complexe :" << a.re << endl;
+    out << "\tPartie imaginaire du complexe :" << a.im << endl;
     if (a.im == 0)
         {
             out << "COMPLEXE : " << a.re << endl;
@@ -99,8 +99,8 @@ ostream & operator << (ostream & out ,const complexe &a)
 }
 istream & operator >>(istream & in, complexe &a)
 {
-    cout << "Tapez la partie  reel : " ;  in >> a.re;
-    cout << "Tapez la partie imaginaire : " ; in >> a.im;
+    cout << "Tapez la partie  réel du complexe : " ;  in >> a.re;
+    cout << "Tapez la partie imaginaire du complexe : " ; in >> a.im;
     return in;
 }
 #endif
