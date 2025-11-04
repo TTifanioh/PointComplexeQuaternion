@@ -54,7 +54,7 @@ Cette programme consiste à calculer la distance et le milieu de 2 points saisie
 
 Cette programme est conçue pour calculer l'addition, la soustraction, la multiplication, la division de 2 nombres complexe entre par l'utilisateur, ainsi que sa module.
 Un nombre complexe est de la forme :
-$$ a + bi $$  $$ i^2=-1 $$
+$$a + bi$$  $$i^2=-1$$
 
 ### ALGEBRE QUATERNIONS :
 
@@ -64,5 +64,7 @@ Un algèbre de quaternion est de la forme :
 $$ a + bi + cj + dk   $$  $$ i^2=-1 , j^2=-1 , k^2=-1 , ij=k , jk=i , ki=j , ji=-k , kj=-i , ik =-j $$
 
 
-
-***Auteur : RANDRIANOELINA Tifanioh M. F.*** | ***Contact : randrianoelinatifanioh@gmail.com***
+---
+Auteur : RANDRIANOELINA Tifanioh Mahefa F. | 
+Contact : randrianoelinatifanioh@gmail.com
+---
