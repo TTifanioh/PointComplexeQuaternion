@@ -59,7 +59,4 @@ Un algèbre de quaternion est de la forme :
 $$ a + bi + cj + dk   $$  $$ i^2=-1 , j^2=-1 , k^2=-1 , ij=k , jk=i , ki=j , ji=-k , kj=-i , ik =-j $$
 
 
----
-Auteur : RANDRIANOELINA Tifanioh Mahefa F. | 
-Contact : randrianoelinatifanioh@gmail.com
----
+> Auteur : RANDRIANOELINA Tifanioh Mahefa F.
