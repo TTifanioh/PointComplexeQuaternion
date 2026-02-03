@@ -57,7 +57,7 @@ Cette programme consiste à calculer la distance et le milieu de 2 points saisie
 Cette programme est conçue pour calculer l'addition, la soustraction, la multiplication, la division de 2 nombres complexe entre par l'utilisateur, ainsi que sa module.
 Un nombre complexe est de la forme :
 
-$$a + bi$$  $$i^2=-1$$
+$$a + bi$$  $$i^{2}=-1$$
 
 ### ⛓️ ALGÈBRE QUATERNIONS :
 
@@ -75,7 +75,7 @@ $$ a + bi + cj + dk   $$  $$ \mbox{ où } i^{2}=-1 , j^{2}=-1 , k^{2}=-1 , ij=k 
 ```text
 .
 ├── Complexe
-│   ├── complexe		# le fichier avec .cpp est le programme principale a compiler
+│   ├── complexe		# le fichier avec .cpp est le programme principale  à compiler
 │   ├── complexe.cpp            # le fichier avec .hpp est la module
 │   └── complexe.hpp		
 ├── Point
