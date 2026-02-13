@@ -47,9 +47,9 @@ le projet utilise C++.
 
 ## 💻 Installation et utilisation 
 1. Cloner le dépôt 
-'''bash
+```bash
 git clone https://github.com/TifaniohMF/PointComplexeQuaternion.git
-'''
+```
 
 2. Exécuter le script 
 '''bash
@@ -66,9 +66,9 @@ g++ complexe.cpp  -o complexe
 Si vous souhaitez améliorer les performances des calculs ou ajouter des visualisations graphiques :
 1. Forkez le dépôt.
 2. Créez une branche dédiée 
-'''bash
+```bash
 git checkout -b feature/AmeliorationMaths
-'"
+```
 3. Proposez une Pull Request.
 
 Auteur : [TifaniohMF](https ://github.com/TifaniohMF)
